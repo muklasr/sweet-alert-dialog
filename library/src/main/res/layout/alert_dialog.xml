@@ -184,7 +184,7 @@
 
             <Button
                 android:id="@+id/cancel_button"
-                style="@style/dialog_blue_button"
+                style="@style/dialog_transparent_button"
                 android:layout_marginRight="25dp"
                 android:visibility="gone"
                 tools:text="cancel"
